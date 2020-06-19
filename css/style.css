@@ -1,0 +1,32 @@
+.body {
+    font: 20px Arial, sans-serif;
+}
+
+.navbar {
+    background-color: blanchedalmond;
+}
+
+.quem-somos {
+    background-color: darkmagenta;
+    color: aliceblue;
+}
+
+.parceiro-section {
+    background-color: rgb(104, 207, 104);
+    color: aliceblue;
+}
+
+.servico-section {
+    background-color: rgb(215, 228, 39);
+    color: rgb(110, 15, 70);
+}
+
+.contact-section {
+    background-color: aliceblue;
+    color: rgb(75, 5, 107);
+}
+
+.margin {
+    padding-top: 30px;
+    padding-bottom: 44px;
+}
